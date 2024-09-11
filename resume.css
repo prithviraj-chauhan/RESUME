@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(215, 216, 208);
+    margin: 100px;
+    
+    
+}
+hr{
+    color:2px black;
+    margin: 0;
+}
+#div1{
+    display: flex;
+    border: 2px solid rgb(22, 22, 22);
+    border-radius: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
+    touch-action: pan-y 1px;
+}
+img{
+    border-radius: 50%;
+    width: 100px;
+    margin-left: 50px;
+}  
+h2{
+    margin-top: 40px;
+    margin-left: 30PX;
+    text-align: center;
+}
+#div3{
+    display: flex;
+}
+#div2{
+    margin-left: 100px;
+    margin-right: 50px;
+}
+.heading{
+    font-style: italic;
+    color: rgb(228, 136, 32);
+}
+#div4{
+    margin-left: 50px;
+}
+#hed2{
+    font-style: italic;
+}
+#div5{
+    background: url(resumeimg.png);
+    background-size: cover;
+}
